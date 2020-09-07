@@ -1,0 +1,8 @@
+{
+    "plugins": [
+        "sequence",
+        "mermaid-v8",
+        "flow",
+        "uml"
+    ]
+  }
